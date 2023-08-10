@@ -1,6 +1,9 @@
 # NoteSaver - A Full Stack Note Management App
 
 NoteSaver is a powerful and intuitive note management application built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to easily register, log in, and create, edit, and organize their notes in a user-friendly dashboard.
+## Home Page
+![Alt Text](./assets/landing_page.png)
+
 
 ## Features
 
